@@ -21,17 +21,19 @@ font-family: 'Sarabun', sans-serif;*/
   font-size: 2rem;
 }
 
+/*big background*/
 body {
   margin: 0px;
-  background-color: #E5F9F8;
+  background-color: #5d6b2a;
   font-family: 'Noto Serif', serif;
-  color: #085673;
+  color: #151b11;
 }
 
+/*box background*/
 main{
   width: 90%;
   max-width: 1000px;
-  background:#FFF;
+  background:#fffed9;
   border-radius: 1rem;
   padding: 1rem 2rem;
   box-sizing: border-box;
