@@ -19,14 +19,15 @@ font-family: 'Sarabun', sans-serif;*/
   padding: unset;
   margin: unset;
   font-size: 2rem;
+  color: #fffed9;
 }
 
 /*big background*/
 body {
   margin: 0px;
-  background-color: #5d6b2a;
+  background-color: #da9432;
   font-family: 'Noto Serif', serif;
-  color: #151b11;
+  color: #72360d;
 }
 
 /*box background*/
@@ -41,12 +42,12 @@ main{
 }
 
 nav {
-  color: #085673;
-  background-color: #FFF;
+  color: #fffed9;
+  background-color: #72360d;
   padding: 0;
   display: block;
   margin: 0;
-  border-bottom: 3px solid #085673;
+  border-bottom: 3px solid #72360d;
 }
 
 h1 {
@@ -78,7 +79,7 @@ ul, ol, li {
 }
 
 nav a {
-  color: #085673;
+  color: #fffed9;
 }
 
 a {
@@ -96,14 +97,14 @@ nav li, nav li a {
 }
 
 .active {
-  background-color: #E5F9F8;
-  color: #085673;
+  background-color: #fffed9;
+  color: #72360d;
   padding: 1rem;
 }
 
 footer {
-  background:#085673;
-  color: #FFF;
+  background:#72360d;
+  color: #fffed9;
   width: 100%;
   margin: 0;
   padding: 1rem;
